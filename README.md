@@ -2,7 +2,7 @@
 
 [Check it out](https://tours-app-2022.netlify.app/)
 
-<img src='/src/img/tours_blocks.png' width=200 height=400> <img src='/src/img/tours-phone.png' width=150 height=400>
+<img src='/src/img/tours_blocks.png' width=250 height=400> <img src='/src/img/tours-phone.png' width=200 height=400>
 
 React mini application that fetches a list of tours from a third-party API and displays them to the user. The user can remove tours from the list if not interested,as well as expand and collapse text if interested
 
